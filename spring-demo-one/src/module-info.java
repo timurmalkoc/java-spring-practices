@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author malko
+ *
+ */
+module demo {
+}
